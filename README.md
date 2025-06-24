@@ -19,10 +19,10 @@ This project is a single Python file and does not require any special installati
 
 Clone the repository (or copy the code):
 
-git clone https://github.com/your-username/your-utxo-blockchain-repo-name.git
-cd your-utxo-blockchain-repo-name
+git clone https://github.com/1SyedAhad/UTXO-Blockchain-Python.git
+cd UTXO-Blockchain-Python
 
-(Replace your-username/your-utxo-blockchain-repo-name.git with your actual repository URL.)
+(https://github.com/1SyedAhad/UTXO-Blockchain-Python)
 
 Ensure you have Python installed:
 This code is compatible with Python 3.x. If you don't have Python, download it from python.org.
